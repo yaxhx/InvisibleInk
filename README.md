@@ -112,5 +112,8 @@ if __name__ == "__main__":
 - ***`run()`***: Starts the key listener and the logging thread.
 - ***`main()`***: Entry point to run the keylogger.
 
-![](https://media.giphy.com/media/xTiTnBELA6Mb1TeeOc/giphy.gif?cid=790b7611daqio7016ovb4mlaptxdctxr6gzfc2zkg01ai0lc&ep=v1_gifs_search&rid=giphy.gif&ct=g )
+
+<div align="center">
+    <img src="https://media.giphy.com/media/xTiTnBELA6Mb1TeeOc/giphy.gif?cid=790b7611daqio7016ovb4mlaptxdctxr6gzfc2zkg01ai0lc&ep=v1_gifs_search&rid=giphy.gif&ct=g">
+</div>
 
