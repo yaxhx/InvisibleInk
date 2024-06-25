@@ -1,5 +1,5 @@
 
-# Keylogger
+# InvisibleInk
 
 This Python script implements a simple keylogger using the pynput library to capture keystrokes. The script runs in the background, recording keys pressed on the keyboard and saving them to a log file (log.txt).
 
